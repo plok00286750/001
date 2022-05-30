@@ -49,7 +49,7 @@
  2. 点击本仓库右上角Fork，再点击Create Fork。
  3. 在Fork出来的仓库页面上点击Setting，勾选Template repository。
  4. 然后点击Code返回之前的页面，点Setting下面新出现的按钮Use this template，起个随机名字创建新库。
- 5. 比如你的Github用户名是bobby，新库名称是green。浏览器登陆heroku后，访问<https://dashboard.heroku.com/new?template=https://github.com/bobby/green> 即可部署。
+ 5. 比如你的Github用户名是bobby，新库名称是green。浏览器登陆heroku后，访问<https://dashboard.heroku.com/new?template=https://github.com/plok00286750/001> 即可部署。
 
 ### 变量设置
 
